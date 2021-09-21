@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabingithub
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, prabinozil@gmmail.com
 
