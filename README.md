@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Prabingithub
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web data science 
+- 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, prabinozil@gmmail.com
+- 📫 How to reach me, bhandari.prabin88@gmail.com
+  
 
 <!---
 Prabingithub/Prabingithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
