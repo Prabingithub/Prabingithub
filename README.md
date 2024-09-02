@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabingithub
-- 👀 I’m interested in web data science 
+- 👀 I’m interested in data science 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, bhandari.prabin88@gmail.com
